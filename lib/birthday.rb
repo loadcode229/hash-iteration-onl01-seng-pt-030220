@@ -10,4 +10,8 @@ def happy_birthday(birthday_kids)
   end
 end
 
+def age_appropriate_birthday
+  i = 0
+  if i > 12
+    
 
